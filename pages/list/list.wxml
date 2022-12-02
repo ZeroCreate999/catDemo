@@ -1,0 +1,6 @@
+<view>
+手机号是：
+  <text selectable>
+  15900006538
+  </text>
+</view>
